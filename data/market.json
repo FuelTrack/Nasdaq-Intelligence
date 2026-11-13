@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-12T15:51:51.989806+00:00",
+  "updated": "2026-11-13T15:12:02.310225+00:00",
   "prices": {
     "QQQ": {
-      "close": 688.4799,
-      "date": "2026-11-12",
-      "change_pct": -0.28,
+      "close": 675.63,
+      "date": "2026-11-13",
+      "change_pct": -1.82,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 710.93
-        },
         {
           "date": "2026-08-21",
           "close": 713.44
@@ -244,19 +240,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 688.4799
+          "close": 688.17
+        },
+        {
+          "date": "2026-11-13",
+          "close": 675.63
         }
       ]
     },
     "AAPL": {
-      "close": 358.0,
-      "date": "2026-11-12",
-      "change_pct": 0.67,
+      "close": 358.19,
+      "date": "2026-11-13",
+      "change_pct": 0.93,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 311.3
-        },
         {
           "date": "2026-08-21",
           "close": 309.35
@@ -491,19 +487,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 358.0
+          "close": 354.88
+        },
+        {
+          "date": "2026-11-13",
+          "close": 358.19
         }
       ]
     },
     "MSFT": {
-      "close": 525.2108,
-      "date": "2026-11-12",
-      "change_pct": 0.78,
+      "close": 519.91,
+      "date": "2026-11-13",
+      "change_pct": -0.59,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 481.15
-        },
         {
           "date": "2026-08-21",
           "close": 483.24
@@ -738,19 +734,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 525.2108
+          "close": 523.0
+        },
+        {
+          "date": "2026-11-13",
+          "close": 519.91
         }
       ]
     },
     "NVDA": {
-      "close": 165.0401,
-      "date": "2026-11-12",
-      "change_pct": -5.0,
+      "close": 160.715,
+      "date": "2026-11-13",
+      "change_pct": -3.29,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 216.85
-        },
         {
           "date": "2026-08-21",
           "close": 214.72
@@ -985,19 +981,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 165.0401
+          "close": 166.19
+        },
+        {
+          "date": "2026-11-13",
+          "close": 160.715
         }
       ]
     },
     "AMZN": {
-      "close": 268.51,
-      "date": "2026-11-12",
-      "change_pct": 0.88,
+      "close": 266.5739,
+      "date": "2026-11-13",
+      "change_pct": -0.32,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 260.11
-        },
         {
           "date": "2026-08-21",
           "close": 258.63
@@ -1232,19 +1228,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 268.51
+          "close": 267.44
+        },
+        {
+          "date": "2026-11-13",
+          "close": 266.5739
         }
       ]
     },
     "GOOGL": {
-      "close": 295.34,
-      "date": "2026-11-12",
-      "change_pct": 0.64,
+      "close": 297.2175,
+      "date": "2026-11-13",
+      "change_pct": -0.5,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 340.67
-        },
         {
           "date": "2026-08-21",
           "close": 344.82
@@ -1479,19 +1475,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 295.34
+          "close": 298.7
+        },
+        {
+          "date": "2026-11-13",
+          "close": 297.2175
         }
       ]
     },
     "META": {
-      "close": 622.255,
-      "date": "2026-11-12",
-      "change_pct": -1.04,
+      "close": 631.13,
+      "date": "2026-11-13",
+      "change_pct": 1.21,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 545.83
-        },
         {
           "date": "2026-08-21",
           "close": 549.9
@@ -1726,19 +1722,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 622.255
+          "close": 623.61
+        },
+        {
+          "date": "2026-11-13",
+          "close": 631.13
         }
       ]
     },
     "TSLA": {
-      "close": 389.82,
-      "date": "2026-11-12",
-      "change_pct": -0.26,
+      "close": 387.4299,
+      "date": "2026-11-13",
+      "change_pct": -2.52,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 345.13
-        },
         {
           "date": "2026-08-21",
           "close": 362.86
@@ -1973,19 +1969,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 389.82
+          "close": 397.45
+        },
+        {
+          "date": "2026-11-13",
+          "close": 387.4299
         }
       ]
     },
     "AVGO": {
-      "close": 361.64,
-      "date": "2026-11-12",
-      "change_pct": 4.76,
+      "close": 343.79,
+      "date": "2026-11-13",
+      "change_pct": -5.65,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 364.03
-        },
         {
           "date": "2026-08-21",
           "close": 368.45
@@ -2220,19 +2216,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 361.64
+          "close": 364.36
+        },
+        {
+          "date": "2026-11-13",
+          "close": 343.79
         }
       ]
     },
     "AMD": {
-      "close": 575.6433,
-      "date": "2026-11-12",
-      "change_pct": 4.11,
+      "close": 531.4,
+      "date": "2026-11-13",
+      "change_pct": -9.21,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 469.46
-        },
         {
           "date": "2026-08-21",
           "close": 473.25
@@ -2467,19 +2463,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 575.6433
+          "close": 585.3
+        },
+        {
+          "date": "2026-11-13",
+          "close": 531.4
         }
       ]
     },
     "NFLX": {
-      "close": 63.1687,
-      "date": "2026-11-12",
-      "change_pct": -2.12,
+      "close": 63.6251,
+      "date": "2026-11-13",
+      "change_pct": 1.49,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 80.14
-        },
         {
           "date": "2026-08-21",
           "close": 79.59
@@ -2714,19 +2710,19 @@
         },
         {
           "date": "2026-11-12",
-          "close": 63.1687
+          "close": 62.69
+        },
+        {
+          "date": "2026-11-13",
+          "close": 63.6251
         }
       ]
     },
     "COST": {
-      "close": 1096.76,
-      "date": "2026-11-12",
-      "change_pct": 0.84,
+      "close": 1102.6449,
+      "date": "2026-11-13",
+      "change_pct": 0.96,
       "history": [
-        {
-          "date": "2026-08-20",
-          "close": 933.51
-        },
         {
           "date": "2026-08-21",
           "close": 947.74
@@ -2961,23 +2957,27 @@
         },
         {
           "date": "2026-11-12",
-          "close": 1096.76
+          "close": 1092.21
+        },
+        {
+          "date": "2026-11-13",
+          "close": 1102.6449
         }
       ]
     }
   },
   "news": [
     {
-      "title": "S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks - Reuters",
+      "title": "Equities close lower as Nvidia drop outweighs energy gains - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
       "source": "Reuters",
-      "published": "2026-11-12 15:26 UTC"
+      "published": "2026-11-12 09:37 UTC"
     },
     {
-      "title": "History Says the Nasdaq Will Soar Once Again in 2027 After the Sell-Off. The Best Growth Stock to Buy Before That Happens - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNblVtWHQzazRPQUNWaTU0dkFCcXkxdGdrbHJLdllheTJ5MnNhb25QaVk2S3lIckJ0WmsyQ2ZTNkNRdFRQVjlac3ZDSDl5YUxucmlvTXpqSkJDSnJCRWk0cnBxUUxkVzNqaGtuNmE2Wm9yS3dCTWpCWGRjYVdBWml2U1J1S2Y5akxoanRsc2tQa0p1ZERYUG1FcjBET3ZfeWZOOVpQRTVZYU0yYVAxM2ltbUtMWnZRSi1VTy1hSFhqLVFKSEZTbGVIZmVMOGd6SEtYclZzQkFZbnl4U3VpWVRmek1nUy01Y0VYVndVV0h2LWFfTzlRSnpoQWhoelh4dHVucHZlWDRfTkV6UlNxczBWdjZHLUVFMi1wZEF6X1dkbmRoVkUwVS1yell6aVk4SFZp?oc=5",
-      "source": "The Globe and Mail",
-      "published": "2026-11-12 14:17 UTC"
+      "title": "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSm5NazNweENaYWFkNXB5cTgtRGdOVTVfM3JkY0xVT2xBaGUxQ1ZONVM4Q3hWUjRTRG00a1FWVEV6SFpNU1g0dkxWaloxUjczS1lzRFJqQk1yS25xakJmcVlrcEN0Mm91bFRldDZ5MmVJSHA5X0trSjNKRTRoQ1ZGR3lQRGlubVN4c3FKTUdiVkZpUmJYTmN5Rnc2LWNaZ25kbUl4VFdYSkhhLTI5ZHB0eDk0SmRFWGh2ZGF1c0Jn?oc=5",
+      "source": "FOREX.com",
+      "published": "2026-11-12 00:20 UTC"
     },
     {
       "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In - Bloomberg.com",
@@ -2986,10 +2986,10 @@
       "published": "2026-11-11 21:34 UTC"
     },
     {
-      "title": "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSm5NazNweENaYWFkNXB5cTgtRGdOVTVfM3JkY0xVT2xBaGUxQ1ZONVM4Q3hWUjRTRG00a1FWVEV6SFpNU1g0dkxWaloxUjczS1lzRFJqQk1yS25xakJmcVlrcEN0Mm91bFRldDZ5MmVJSHA5X0trSjNKRTRoQ1ZGR3lQRGlubVN4c3FKTUdiVkZpUmJYTmN5Rnc2LWNaZ25kbUl4VFdYSkhhLTI5ZHB0eDk0SmRFWGh2ZGF1c0Jn?oc=5",
-      "source": "FOREX.com",
-      "published": "2026-11-10 23:22 UTC"
+      "title": "History Says the Nasdaq Will Soar Once Again in 2027 After the Sell-Off. The Best Growth Stock to Buy Before That Happens - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQTWg3NGxVY0RBYjd2TFJFVm9yT0JjTWVGRlYtYzctdFc2ZEk5YzM2bDdZQzBvZUs1cTJVQk5PRFN5bFN2b0R1MlNWOWN5V0d5RkxXNzA2NWVPNHg5cUd3ci02bTVTc0Q5cGRwS25LbjNwaWJwbTVDTVk2RHZXdGpyM2wyem1NVms2RG9MdWNuaHhxNExSTldYR2Z4ZFlUUy0xZWxXb2R1ZUVlODlnLXE4WnNJTFdMS2JqQkpnckVLV3FsLTc5bjhMOUlWUlZVSmlRb3JxdkNkYnNFeC15UkhIZ19JTFViblM0ZlRoZUZTZkdUMkducG9xZG56eW00XzZQbXVCS3F4b2d0d3NUTjJuT2RlZ0ZBQ2k1c3ZNVldpbXA5VWpEcHFrTDdyOGI5UQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-12 17:15 UTC"
     },
     {
       "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Rally on November 11, 2026; Oil Rises, Gold Slips - Eurasia Business News",
@@ -2998,64 +2998,28 @@
       "published": "2026-11-11 20:15 UTC"
     },
     {
-      "title": "Nasdaq Futures forecast: AI stocks rebound as Goldman Sachs, JPMorgan and Morgan Stanley assess market outlook - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lZE81MFFHcEttT3RIV0hrblUwUHhpYnJWb192V01IT0lidlFzSVNwVmg0NTB0NUhRVXpyN2tVUUNXT1U4ZEpUMDUtN2RZemtjR1RqLWxyYjVnNmhmQWlDTkRpV0ExX3hqOVUwZkxzTFluSWg3TXdJ?oc=5",
-      "source": "Beinsure",
-      "published": "2026-11-11 11:31 UTC"
+      "title": "US open: Stocks mixed as CoreWeave earnings boost Nasdaq - Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3p1YW9od3NzQi05dDl3OUZWY3pOWDhMNDdyTlZBVFlzczl2ZjFiQ2pZMGlmYVdybjlCdTBNT0pOV1E0cmE0UG43NG1WT0FzdEJUMDRRazRJUE9jOV80Y2NobFNpMmJyOU9xRmZHal9LMmJkN21nYjZBeDN4MWdNNDRVY19FZGxwcmhyMlFGSFV1clRKa1BmNFhCMzZLQ3JKTlZFVWJaLTBDdnJxeFN1MU1lNUIta09QNnFKTTR6SQ?oc=5",
+      "source": "Sharecast.com",
+      "published": "2026-11-11 15:58 UTC"
     },
     {
-      "title": "Nasdaq Surges Over 2% as Nvidia and Chip Stocks Rebound After CoreWeave Beat - BBN Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZmUDU1MWs4aTBJbWVmc1czNlZKQ19zbnhhS0NzZU9OOGFxeXZtb1NqdFlKQUhVNENxZlZCNHV3UU5ZQ05ZSlRCSDNtNmNWZDlQT0NLSXJSWVlyenRoZm94OEhZeFpMOVNoVExfbGh1NXBYSUhaeW1WcnRoekh2RTFHZnB1WWNDYUVJYXhZRlZjTzExTTdUbm03SEplMW43NHkyRjVNazJDRUFpVnV2eA?oc=5",
-      "source": "BBN Times",
-      "published": "2026-11-11 23:00 UTC"
+      "title": "US producer inflation data due; markets brace f... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlBUeDlXZ1BRa1IyXy1DNUpvOUZXcGhRZGJ4cllMUTRjZUtPa182c3pWVFFUSjB3U0VtN1RWYy1IYWNTMG00cDdRTFI0ak1mbERpM2I4ZWZMYVNsWFJuU19vYnVYNEhobzNqbTZTMWtOX0dqbFBBOUU5dUwxNjNWX1FMMEE0TnFrdlNpX0xtWmVEdGw3LUI5WQ?oc=5",
+      "source": "Pluang",
+      "published": "2026-11-13 13:35 UTC"
     },
     {
-      "title": "Nasdaq futures surge as CoreWeave results revive AI stocks despite Fed concerns - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WVkd1QXdCSUVTWFhGSmpidTBLazFsclk3a3JCVV8yTkxVLWJOQ0VzNjkwdk9EY0VQRE41WENPXzhLWC1SMzE4RlVaNmc2OUVSaHdrMHZiYXZwU3NMbzFJektEX0JmVEF1SlBmUl9MRFpHQUFfa2h0R0IxRQ?oc=5",
-      "source": "Traders Union",
-      "published": "2026-11-11 12:47 UTC"
+      "title": "S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNi11TUtmWkhpU3htU1hpMXhVTE9veDVjbzJWdjBqLXNKZ3hDTDZ0MjVjcVV4cTZWS0FjbmtiQTNjV0luNTh0WGg1SmZ3VEw5WkVtSHEyLXRRVVF6dHRWZlFnSEUtTXdCbEs3Tzk1VjFLWkFsbnJ5dlhWbVNpV3M1dGJtcmZaSVBHdm1nSEdXa0RQRGJIWWx6MFdCWTk1QzBBczc1ZUF0NA?oc=5",
+      "source": "Kitco",
+      "published": "2026-11-12 16:59 UTC"
     },
     {
-      "title": "Is the stock market open today, Veterans Day? Yes, stocks trade normally but bonds are closed - Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRllka04zT2g3R3N3Zzd2bTgwMzVlS1I4X3V4dTFjUG91RWpVcnpDX3RaSmdpNjFUTFpLa1hnYlluUnVTRUktTEdiNkl2ZlRLbnRvX3ptZld3bVdSaklseFVPZEliS3BIM1ZxNEdaMXBDVzRzWXRGem1VY08tbEdiVzdZdGhxVXRHSHhIZURIQ0o4THlrbVlEbDJubE5ZYkZDLUZpSUJTWVVWc3lZTXowSzN6RG9icEk4Rnc?oc=5",
-      "source": "Nacionale",
-      "published": "2026-11-11 12:58 UTC"
-    },
-    {
-      "title": "Why Bitcoin, Nasdaq, AI Stocks, and Chips Move Together? The Liquidity Machine Explained - Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhVFBDRnZybV9iUW9KMzNDV1Q5UUJaNkt6TGlyNzJpOU9oTlMxdEYwRks4UFZiX2ZSOEVWbVBtWDJuNkdqeGxfZzdXT3MyWmlUWFJrMzNNV2ZubzB4TDctcy1VQVA3Y0J2RnRPbXlnR3R3Z1lOOHhPSw?oc=5",
-      "source": "Cryptonews",
-      "published": "2026-11-11 08:25 UTC"
-    },
-    {
-      "title": "Nasdaq Plunges 1.6% as Hot US Inflation Sends Treasury Yields Above 5% - Stocks Down Under",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1S3FvbEcta0F3YUlKSkRPZ2lpSWZFVmpDbkZKYU4zNkNxNnYyNEVsemJNVmRkSTJnWWRWckZhUExnYlltTE85X1FkY2JuS2xDSjljNUVWczc5ZWhsdFdWdmJVQnZLWlNLUG9BcExrRXVxUnRiMHc?oc=5",
-      "source": "Stocks Down Under",
-      "published": "2026-11-10 18:01 UTC"
-    },
-    {
-      "title": "Nasdaq Falls 0.74% as Sticky US October Inflation Stokes December Rate-Hike Bets, Nvidia Extends Drop Over 5% - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHpkX25aWDZPeHh5OXpwU3ZtcnBXcEhGY2Z6bWZkaktiWk80MXYxTjRXZ0duTS1TcGFHNGV2UjBrWlR0azhyY1NNakxYdFNPVGZhSnJfNlVtVXNkSVMtWmpCYVVfa0Iza1JoTkNScFBqZEUtNUxwVG8yZlU1LTJWdVpsTUU1SGZFWG8tNlpQMHF4ejJoOWd1VVdDamhZRWJJSTNuekgyd2NhcDBvY21jOHdQTV9sZHFzMW5STklaWmdEMlRZUHdmWUdWa2hJa0JI?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-10 21:35 UTC"
-    },
-    {
-      "title": "Wix, Elastic, Atlassian, C3.ai, and Five9 stocks trade down, what you need to know - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSl9wZjVGLWszYmM0dTh0eHRJU2dycXg1U3lMbnJjQUgxRG8zd0Z1anVsZmxPakxYYXUxNnA0T2Fzal8xWEtjRWRpRnNOeXd3SnBXMDJNd2VaUjNMSnhsb3F6SVhWbV9PNjJ2QzBSaVB2MkdIY0JkeG1OUlNEZTR6TVFpNk4zd1BfWGJadjlKNlFnWHhrV183V1NRMXpiSUE1YU1FcjZTdUJ2ZWdvTkRBdWNXQ18xZ0dFcTVlZy10ZlgtbXozM0Z3U0ZFU3RPdjU5MEVN?oc=5",
-      "source": "StockStory",
-      "published": "2026-11-10 18:30 UTC"
-    },
-    {
-      "title": "Nasdaq Composite falls 0.74 percent to 25,065.87 as inflation pressures tech shares - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNzFQeDBxdGdCeFc3R1ZZb2NKcF9LX1R5ZnV6V3QtcHZTUnZkZUlTYnZpX1J4a0pRT3g0cXRmVWN4XzJicWdMdkZJUnc4MFVmaXNyUTNiRXJmVnBHQnNiRHRsc0l0M3ZyUS1aaEFiWlA3REEtckF2cXVtaGlBVjlFWm81cXBiUXFrQWdzc0EtNXI4NzVydGVfZUhKX3pRQlFiTGUyZ3FkNEEtQnZLb2NJUHp2UTZHWVl3NzVMR09GLWI0STZzalhTeUhqRlRtVmV1TjZmazJtMDFlZVdhQlE?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-10 21:43 UTC"
-    },
-    {
-      "title": "Wall Street Futures Rise as CoreWeave Earnings Support Technology Stocks Ahead of US Market Open: Dow Jones, S&P, Nasdaq - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm93M3ZTUUpxSWZzVlFRX1JnWnY4SU5wY0UtVGh3LWRUOVFZVV9KQ2FZUjFJUjZzLUZVVEhnY3A3QS1LZ1g0MHlvcHZWSjFkRUlWWUo1dnJrSE80aEZZZ2pIWVRxUXp4bEhzcE1fNXlaVWFfRUREVjktZ0NoVFhoRXRNZ3U1LVZDNG5CTHF2LVItVS16R2hkWVZWaURVeXZv?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-11 14:14 UTC"
+      "title": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-13 14:52 UTC"
     },
     {
       "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade - The Globe and Mail",
@@ -3064,28 +3028,46 @@
       "published": "2026-11-11 23:05 UTC"
     },
     {
-      "title": "Trading Runs Normal Hours With the Stock Market Open on Veterans Day - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VVC12WFpBeFdid3lVOGlhM24yeE1XMHppektCcjBscHVSYk4wN3NTczc0bnJTYWlfQVJSQkx2bExtMm9Pakt5VjBGWVJ3bHU1MDJKQml2d0VRZTlsUlk1MFJhaEhLTXBHbFA0a21BdXZoN0xqM1lZMXlsbw?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-10 19:27 UTC"
+      "title": "Market News Today Australia: Gold Falls Below $4,000, Nasdaq 100 Rallies as CoreWeave Surges - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWN3OEQtTFhFel9wanZ0aU0wVkstOEVJdXZTU0FtdEZ0M3MzZm9ReHIwNXVsd1FKRldTdEtoRGxYOE92ZFFrclJoOTVYa0tYbjV6ZkxGZG1tNFk1eUJjNjdxSFItMGNxbVFzZkRBM3hZX2FzV1ltMDJCVkx3dHc1NkNETUI0bUtjaWVhSXlIYXViMGw3cHZXbmlKTm03WUdPazVZRg?oc=5",
+      "source": "Mitrade",
+      "published": "2026-11-12 05:29 UTC"
     },
     {
-      "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks - inkl",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzljTVNvNHlTai1WY3hmM1pXVXRMOFF1c2o0UWxmMkM3M2RoV3U1TWNPRW1aSWJFY19yZlpjcjlNWmoycHpYMnZ1aXVnVTlJZDVNeHI0cl9YU0QyY205U1B4aGJ5VDBaOEhBUVB3aHlRcWpUd2RrTXRDYW5LLTlPbFMybDBNNHpiNTZHdlhjXzkySHhNOHFKaUd3?oc=5",
-      "source": "inkl",
-      "published": "2026-11-12 13:14 UTC"
+      "title": "Nasdaq CEO gives strong forecast on Treasurys and stocks - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXRSR1BlWEJCXzhuNHBrNmg3MnVibm5ZeUotX0p2Ym8yNlF0UF9VVlhGUWNDb28way15ZWZTWFJkc2p4SmV0SGktVnhOYTY3RnJaaExmbzBOdUF2SXUxbUpUc2MwRXpoejFRNHh6WW1kZGwzTnFySGZNb3l6UG1jamtmZkFmWUZWc21HWXZKTG5VYVlWdEhaN0pRRmV3QkowaFRDRFprQQ?oc=5",
+      "source": "TheStreet",
+      "published": "2026-11-13 14:33 UTC"
     },
     {
-      "title": "CoreWeave Shares Jump Nearly 25% as Tech Rises on Results - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclRHWkpXeGIzaXFSQTBPNXRBbC1vYlBmMlRZRmphY2FPWEFHaXl6dTBHTVRBaHJENGpCVjdPTER6cHZkX0FaT0JnWENCN2lOV2U2MW04V3BDbC1LTlFXcldBdE9leWc1ODU2VGtRWjAtcFFnMTJCVVdSUVBSaGpMUzdFZk1Nc0pQTGdrM3RUN2x0UQ?oc=5",
-      "source": "JournalArta",
-      "published": "2026-11-12 11:52 UTC"
+      "title": "Nasdaq Surges Over 2% as Nvidia and Chip Stocks Rebound After CoreWeave Beat - BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjZmUDU1MWs4aTBJbWVmc1czNlZKQ19zbnhhS0NzZU9OOGFxeXZtb1NqdFlKQUhVNENxZlZCNHV3UU5ZQ05ZSlRCSDNtNmNWZDlQT0NLSXJSWVlyenRoZm94OEhZeFpMOVNoVExfbGh1NXBYSUhaeW1WcnRoekh2RTFHZnB1WWNDYUVJYXhZRlZjTzExTTdUbm03SEplMW43NHkyRjVNazJDRUFpVnV2eA?oc=5",
+      "source": "BBN Times",
+      "published": "2026-11-11 23:00 UTC"
     },
     {
-      "title": "US Stock Market Today: Nasdaq Jumps 1.3% At Open While Dow Barely Moves; AI Stocks Roar Back - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHJPR252bXhkSTFfd2hBSWUyeGRSNFNyMklLTVpYdzJSSDFwck4wOWQ2cU96RDdCZ1IxbV9DZkpGbUdmNTNXUXR0cmxVYTVHZ0tNQXY3RDlDN2xEaVZ2eW5rTWdqTXZGNk5QVUQwU215WFpEWnBITnk2bk53UjU2Umo2SXRNTGVKVjZIMHR6RHcyZ3NQZ0t1cEZ5Y3dXTXAzMVItT25uZFFHeHAyZEZKeHZMSWJzUDY0M1NuSHJpSzYxWVNOY1UxU2hBbm1fUdIB1gFBVV95cUxQN21iajBZUE1scDluWEZmZXJ6LXRhNUM5U09wVWpWYWdyeF9zZzZFS3UzZ3ZZMXNXazBrRzdKdl9WWlZrT1FrWmJ3ZDMxOWxGMFFjNExVdVBQd1FJeGhlOXRzczJGZi1rR0pRdXlqREg3VGdpeXJ5VFNiR09mWm5JZGE1VmdoOHhTejJYeXlVbkhtOGRMR0I2VWpiT2hsdWFDVmtxdzFjV2JzbFRKV2RINm85dmxWVS1TYVpiRGFfT1RwMHBaRU0zRGJhNTVZSFRNekJwWGxR?oc=5",
-      "source": "NDTV Profit",
-      "published": "2026-11-11 14:39 UTC"
+      "title": "Dow, S&P 500, NASDAQ Futures Rise as CoreWeave Earnings Spark Tech Stock Rebound - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2JYa284S2R3TUx6M00wQ2laMV9XWWxMYXZITWpmWEljMWhnYm5kMjA5RzhDMG5nUTYzR0VENW9uNUs4QklOaVp2SW9Pb1hoUUNvWFJ0dXljZ0NRbzdYVjN4RFVhRWw4SUpWbjQxNVBodzIwb1lrV0JMRUJ0WWRaT2diZUZOTnJCMlJWV05yUkxFSTJQZk9hZDRXOXBTNnVkd1NXdDVSemhkTUJSeFRaeEJiNnkta2dwdUtUVm95aUpmVHA1eGfSAcYBQVVfeXFMUFdiWGtvOEtkd01MejNNMENpWjFfV1lsTGF2SE1qZlhJYzFoZ2JuZDIwOUc4QzBuZ1E2M0dFRDVvbjVLOEJJTmladklvT29YaFFDb1hSdHV5Y2dDUW83WFYzeERVYUVsOElKVm40MTVQaHcyMG9Za1dCTEVCdFlkWk9nYmVGTk5yQjJSVldOclJMRUkyUGZPYWQ0VzlwUzZ1ZHdTV3Q1UnpoZE1CUnhUWnhCYjZ5LWtncHVLVFZveWlKZlRwNXhn?oc=5",
+      "source": "Analytics Insight",
+      "published": "2026-11-11 15:33 UTC"
+    },
+    {
+      "title": "Dow rises as US stocks gain despite Nvidia losses and Bitcoin slump - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFh1ZS1mVTZneFJwcmtLR3VpMHhkUzloXzFpSGJIaTFadzV6LVFqcnhwa0NTR1p2ZXFLX1E2Tkd1T0ZJa3B6SmJ4a3VUOHJiT05QbW9oal93bHhKS2Vac1FEUlNCaDBucWJNRV9FWnhDWENxVUZNbGJWcWtaa1NuSDRPcFZMNGl1NC1UMVZBWFV2TGNGU09fVVdxNEQzNnJnR3FYSW9B?oc=5",
+      "source": "Invezz",
+      "published": "2026-11-13 14:40 UTC"
+    },
+    {
+      "title": "Stock Market Today, Nov. 13: U.S. Stocks Wobble Ahead of PPI Data - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0x6UHNiRktVUVRXYncwN1A3c2d2d0J6Rl9NTUtGU3BTb1ctNU1PNjRSZU04YVBLVVZKTmp0QlVxZ2dzOXRhSWNsME53QlJtY0o4OWRKSTRlcFgwVlpZdGQ1YWUtalZ3cldQYW9WTGEwU2FEMFVuVkQ5ZGZZVmFROGo1ZS1aaHhncmNFWFVSYWZoTDJ2enc?oc=5",
+      "source": "TipRanks",
+      "published": "2026-11-13 10:45 UTC"
+    },
+    {
+      "title": "Nasdaq Composite enters Thursday after 1.60% rebound - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjdCc252X2V1R3pnYURQSHI1UmlBSmp2Nmp4Z0Nra2ZIN1A4c09hcUZ3cVZ6ZUNZcU5DR3lTWmJ1ZnR6RlNnYXRXT3N4b2dTb3JScEoyclF2SG1uSDgwdVdUczZKZjlvbFNYVFpvaUs3RHpkV0xZZlh5TlRLbU1lQVRwUkVaOEpwZnhycUpWQTYxZS1vRXRTaFl0N0dlSWxaTjlOZkZuOGhJR0J3UjYzX2R5WQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "published": "2026-11-12 12:01 UTC"
     }
   ],
   "errors": []
