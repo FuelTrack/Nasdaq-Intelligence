@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-19T16:25:59.962070+00:00",
+  "updated": "2026-11-20T15:58:08.201934+00:00",
   "prices": {
     "QQQ": {
-      "close": 661.5272,
-      "date": "2026-11-19",
-      "change_pct": 0.31,
+      "close": 627.68,
+      "date": "2026-11-20",
+      "change_pct": -2.69,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 721.11
-        },
         {
           "date": "2026-08-28",
           "close": 716.43
@@ -244,19 +240,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 661.5272
+          "close": 645.04
+        },
+        {
+          "date": "2026-11-20",
+          "close": 627.68
         }
       ]
     },
     "AAPL": {
-      "close": 349.43,
-      "date": "2026-11-19",
-      "change_pct": -0.86,
+      "close": 347.86,
+      "date": "2026-11-20",
+      "change_pct": -0.39,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 314.58
-        },
         {
           "date": "2026-08-28",
           "close": 319.7
@@ -491,19 +487,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 349.43
+          "close": 349.21
+        },
+        {
+          "date": "2026-11-20",
+          "close": 347.86
         }
       ]
     },
     "MSFT": {
-      "close": 514.21,
-      "date": "2026-11-19",
-      "change_pct": 1.16,
+      "close": 493.94,
+      "date": "2026-11-20",
+      "change_pct": -0.87,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 505.06
-        },
         {
           "date": "2026-08-28",
           "close": 513.53
@@ -738,19 +734,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 514.21
+          "close": 498.3
+        },
+        {
+          "date": "2026-11-20",
+          "close": 493.94
         }
       ]
     },
     "NVDA": {
-      "close": 152.915,
-      "date": "2026-11-19",
-      "change_pct": 1.3,
+      "close": 136.866,
+      "date": "2026-11-20",
+      "change_pct": -6.24,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 227.98
-        },
         {
           "date": "2026-08-28",
           "close": 217.55
@@ -985,19 +981,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 152.915
+          "close": 145.98
+        },
+        {
+          "date": "2026-11-20",
+          "close": 136.866
         }
       ]
     },
     "AMZN": {
-      "close": 268.94,
-      "date": "2026-11-19",
-      "change_pct": 0.45,
+      "close": 254.09,
+      "date": "2026-11-20",
+      "change_pct": -1.27,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 256.26
-        },
         {
           "date": "2026-08-28",
           "close": 266.43
@@ -1232,19 +1228,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 268.94
+          "close": 257.37
+        },
+        {
+          "date": "2026-11-20",
+          "close": 254.09
         }
       ]
     },
     "GOOGL": {
-      "close": 289.025,
-      "date": "2026-11-19",
-      "change_pct": 2.33,
+      "close": 276.68,
+      "date": "2026-11-20",
+      "change_pct": 1.47,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 340.65
-        },
         {
           "date": "2026-08-28",
           "close": 346.59
@@ -1479,19 +1475,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 289.025
+          "close": 272.66
+        },
+        {
+          "date": "2026-11-20",
+          "close": 276.68
         }
       ]
     },
     "META": {
-      "close": 618.76,
-      "date": "2026-11-19",
-      "change_pct": 0.39,
+      "close": 575.16,
+      "date": "2026-11-20",
+      "change_pct": -3.53,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 571.1
-        },
         {
           "date": "2026-08-28",
           "close": 578.02
@@ -1726,19 +1722,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 618.76
+          "close": 596.22
+        },
+        {
+          "date": "2026-11-20",
+          "close": 575.16
         }
       ]
     },
     "TSLA": {
-      "close": 381.34,
-      "date": "2026-11-19",
-      "change_pct": -0.62,
+      "close": 362.6081,
+      "date": "2026-11-20",
+      "change_pct": -3.15,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 354.81
-        },
         {
           "date": "2026-08-28",
           "close": 348.75
@@ -1973,19 +1969,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 381.34
+          "close": 374.41
+        },
+        {
+          "date": "2026-11-20",
+          "close": 362.6081
         }
       ]
     },
     "AVGO": {
-      "close": 359.5207,
-      "date": "2026-11-19",
-      "change_pct": 1.55,
+      "close": 315.36,
+      "date": "2026-11-20",
+      "change_pct": -9.03,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 371.54
-        },
         {
           "date": "2026-08-28",
           "close": 368.79
@@ -2220,19 +2216,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 359.5207
+          "close": 346.65
+        },
+        {
+          "date": "2026-11-20",
+          "close": 315.36
         }
       ]
     },
     "AMD": {
-      "close": 494.745,
-      "date": "2026-11-19",
-      "change_pct": -6.68,
+      "close": 443.14,
+      "date": "2026-11-20",
+      "change_pct": -9.41,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 476.67
-        },
         {
           "date": "2026-08-28",
           "close": 465.58
@@ -2467,19 +2463,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 494.745
+          "close": 489.19
+        },
+        {
+          "date": "2026-11-20",
+          "close": 443.14
         }
       ]
     },
     "NFLX": {
-      "close": 59.555,
-      "date": "2026-11-19",
-      "change_pct": -0.44,
+      "close": 58.0,
+      "date": "2026-11-20",
+      "change_pct": -0.79,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 79.84
-        },
         {
           "date": "2026-08-28",
           "close": 81.72
@@ -2714,19 +2710,19 @@
         },
         {
           "date": "2026-11-19",
-          "close": 59.555
+          "close": 58.46
+        },
+        {
+          "date": "2026-11-20",
+          "close": 58.0
         }
       ]
     },
     "COST": {
-      "close": 1085.99,
-      "date": "2026-11-19",
-      "change_pct": -0.97,
+      "close": 1120.4,
+      "date": "2026-11-20",
+      "change_pct": 2.43,
       "history": [
-        {
-          "date": "2026-08-27",
-          "close": 934.66
-        },
         {
           "date": "2026-08-28",
           "close": 945.47
@@ -2961,41 +2957,51 @@
         },
         {
           "date": "2026-11-19",
-          "close": 1085.99
+          "close": 1093.83
+        },
+        {
+          "date": "2026-11-20",
+          "close": 1120.4
         }
       ]
     }
   },
   "news": [
     {
-      "title": "Anthropic Prices IPO at $83, Above Range; Nasdaq Futures Surge 523 Points as European Tech Stocks Rally - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OV0ZNY283ODRRSnRZcGdUalA4SU1iUFlmR0N0VjZjcFhzSnlFX0dQY3A1TXY0UmdUektkZDdYTW56TkE5Qy1vbGstV2NNQ0M0RE43ZXBlVVlQZlE2NlFRQ3d3WkpTamROZTJaOGlUbkY1eE5LSUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-19 10:15 UTC"
+      "title": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2JySDhOZnRaczVybVhLdzJrLTlGZEhrMU9KYXVrNmRTWWNpdGxIWnlZTk0wcHg4Z1BFc2xXVmFMRFNaWnhCSmQ2aEQ4X1Bwc0tabmVGaDF4al9oZDB1SVJva1ZuT3Z6RlNEbWNRbUtneHZhem81bXNQOXprbUpldzRvM0VQRy1PdG5USFNrdnNFQkFxcGpqZzYxNkx1WUNDLWFjV0I4bUNwTGxDcE1WbjZ2Mk5xZ3laLXVCRGxUZUdWc2dBaFpqT2x2dHJTQWlSN2MyS0xlTGlHcmttN3lFTGNTOU5PQ2lxVWtfSDRzMnV6bEVtam41NklsQzJHd3UzTWNQR3d4dDd3UQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-19 16:00 UTC"
     },
     {
-      "title": "US Stocks Diverge as Nasdaq Rises 0.4%; Select Tech Stocks Gain as Nvidia Drops Nearly 3% Post-Earnings While AMD Surges 5% - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUU11cWRxVVJseEhRLWhKMTRUcGxCWVQ2aDU0VWhsb29hQS1fR0N6N0lmWWY1Y3lIZGlMTnItSEhCdHhLNzlRdnpBUk8xS0dCMVlvY3k0ZkhKeDF1ZGp4UWJTaFJOQW5SRGhNTDlkV09BUF9TcFBMSTRPTFZyRlhGSk4wakt6TG1HRHdkUUxCQURQLUdrLWFNRFdfTE9hcW5oNXJCTW1iTjY3T1R6Ukt6clNWaDZVN3RGSzlTZnlIT1RsNGpxdXBRQXFlT3hKY0gtdjAw?oc=5",
+      "title": "Why Is the US Stock Market Crashing Today? Dow Drops 1,000 Points Despite Anthropic IPO - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQy1ONS05blpQMVlFOXg4VFdqQzVQbm1MNWgxUTM5WHpkWWlienZhUGRPLTJvRDFiWmQ2QmNHQ3lCVG1CYjNILXQ1V3BGbHNKTmNFaXcyVWN5c1o1cHBrNWF6YlJQSE9KT0FpU1F3NDVacnBMZ0pNQzkyYzM3QQ?oc=5",
+      "source": "Stocks Down Under",
+      "published": "2026-11-19 20:39 UTC"
+    },
+    {
+      "title": "Nasdaq Drops 2.2%, Anthropic Slips to Close at $97 After Higher Open; Tech Stocks Slump as AMD Falls Over 7% - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWpHTTJjYWVnWG95WE92NkRpTjZRNUkyd0lCZjRIS3VnLVhNTUJMY1Z6Z3UwLXU2eUduaDM5WTJ2MkZHMDdkSWlVZUFVQ2JnNUdHdmh0THZJTFBENGxoRloySEh3YmcyMXFkYy0wLVNHWlhDMWpoWHdMSnJha0NkTEViMTVpYkkxX3JjWUE4dkktYkNrVnJsM3phTGJoRktROWMzX1JjNmdvSGhxNmtoWDhnekZsR0QwWGVOYVFKbFgtZ21pWE02MTlocjU?oc=5",
       "source": "TradingKey",
-      "published": "2026-11-18 21:18 UTC"
+      "published": "2026-11-19 21:15 UTC"
     },
     {
-      "title": "Mixed Performance in Japanese Stocks Amid Anticipation of Anthropic’s U.S. Stock Market Debut - صحيفة مال",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BR3I1LVZHUDlOMTB1c3laUG5IS0NUTjlKNXVqUmNIOEhaMEJKQ1RqY3dPS2FuNTRFWjM2MlN3TkNmeDlINHNjU0tVdk5pcTdVSWRJZUtXOUJneUtVQ2Nad0RUMUxZTmhKT3otRg?oc=5",
-      "source": "صحيفة مال",
-      "published": "2026-11-19 10:18 UTC"
+      "title": "Global Market Watch: Major 3 Indices Fall, VIX Surges Nearly 18% - SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYT0h1cldnVHNxWmZPX1JYaGgxRUI4TmZIRXdvYV9Nc2R2TnkxN0xqN1lVNjJRWll3Y3BiRlNRQzdwNWdrRnJZeUhKVjFpM1FnZExmMjdBQjdMQi05SHlRUmt0aTJ0dVpMUUVrUUZn0gFmQVVfeXFMTmQyaHlxdTZKbnUtenZrX25QazZMaGo5SGdUQWlQSEhXeEdHNHpYT2RrR1J2WWJCYThneXprZnZia0tfdlM5cUd6S0puYnp4dk1nNzhGR0pud3ZIUW1FUmhaaXJwaTJ3?oc=5",
+      "source": "SBS 뉴스",
+      "published": "2026-11-19 23:23 UTC"
     },
     {
-      "title": "Tech Stocks Fade Before Claude Maker Anthropic's Expected Stock Market Debut - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbkZxNnAzbVE3U1lCOE94ZlRaeHZrTW45cGI5aVRzcVM0VlRPWW51M2JoR0J4WnVITHVHT0EweEhMTl82dDFib0t3UUNYSk1EZFVhaEQ2b2RyMW0zMVN4cEZYTC15NGVFRDh1aVVtMjdmRElJREFVa09Ib3hIYU5tRWt3?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-19 12:02 UTC"
+      "title": "Dow Crashes 1,101 Points as Anthropic Debut Fails to Stop the AI Stock Sell-Off - Markets.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pRzBhc0NacFZndjZSRGk1QWF2Q2NJYTE5amhCZEtGbmliQ0c3MXNFQjZDVjdPSkFhYmd2OTNPN1h3d1ZLV29wdHZFakRqRVF3Ty1fZ2JVS253aUtVczc0UmhwRmtBQ3hWVFl6S2N1ZkgxMEhYamc?oc=5",
+      "source": "Markets.com",
+      "published": "2026-11-19 16:03 UTC"
     },
     {
-      "title": "Nasdaq futures jump 1.1%, S&P 500 futures rebound as Anthropic's record $81 billion IPO lifts AI... - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdWdoSi1NQWJNLXdaVjRpcm1BeGlUbmtSbExNeE5ES2R6X2J4akNmN3hSaGlWVEZ1c3EtdUc4Vk1LUW1NYmJGeHVwVm5RZ1dsR3MyTld5VVFVb0lLSEh5MkoyajJkYWNVenhPUDFaSXctWVI0YTZoalNOamJaOE5ldW9yZlJMcUQzT0d6Q0xNQXVsYXFSNDRpYURqLTRUR2cxcmlWcm42UkpWOFZWMFFCTTVsYUhPTmxObWVTeV81SU5BSUp2VlZEU19nYnhLcWR6T0FtVmNuOVhiYmRQdTdiNnJRTzN0RXN3d0VxWTdYMWlORWNDYmlDWNIB_gFBVV95cUxPVXBjeTZHcUVpcjJoMUxEV2RGTUtDakhNN2x3TEo0b09xZnBIYW1HcEJoR21tMFY4VUVRWkRRWFRPYXc4Nk1NX3cxY0tnTjhudTF0elZmT1V1Ti02M3Y3UzlCeGE1dU9GeWNqNTJhV1plcndZY1ozUEF2R1FCdjB1Qy1HX2NvRHdFMENManN1OHFLUnRfOVN3MVlsWWlpR2E1eXR2dmpldVlHMmU0LWNhT1hsTllTU0pHVk4wMmZKam05azZJbm4tQVpQRjNTa3FEaE9DRTBfYUptWFA3ckdCWklxYWJkSEdQZ3A0MUdJQzM2a0JoLUpwd0d6djlJUQ?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-11-19 07:27 UTC"
+      "title": "US open: Stocks mixed as Anthropic makes Nasdaq debut - Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEtRbS1lcE5mYXJqLVh1el84OE9wdkZwanNfeHQ5YVBaTU5YVmVzVVMzNmtrUTQwQjVZX0R3bFZYV2Y0MVU3U3MwVUw5d3RFdXpBdmlSaFNVREpPRXZwZEh1ZVpGcEl5NklEMmE0WFNKeXVRSGRYdVhkcmw4NkpabjgxY245akFERG9yR256cy1YQlJFVFpYc1p3VUt1OUUwX19EaHpvMlp5RkN6eGU1YmZBNFhjZEJWdjdheE5RRXUyM0lfT3JmUjlManN4V1k?oc=5",
+      "source": "Sharecast.com",
+      "published": "2026-11-19 15:46 UTC"
     },
     {
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
@@ -3004,40 +3010,52 @@
       "published": "2026-11-18 17:05 UTC"
     },
     {
-      "title": "Asian stocks fail to get a lift from Anthropic's IPO pricing - The Star",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUVZbkh4VXVfQTNmbDRvd09hZUxZYWxKSl9aYmQ3MXlmbUpPRU5kVllVVVNxQ0VvaWFpQkhQcmtlWV9uanB6WldNM3F1M0JvTUw4RFZLcFBicGtldllWQTBLVXhERWRzbXBIQ1g4dnYyMG42d25fdEVtVVZPMGNMWldkZHljNjBkc09RbTVEMVdLaUg5V1lHNFgzMGJCOC1nMTRQYU4tdmgzMnF6MkJWYjRjVm95TVVzS092VVpEMnI?oc=5",
-      "source": "The Star",
-      "published": "2026-11-19 07:20 UTC"
-    },
-    {
-      "title": "Today’s Market Recap: Hawkish Fed Minutes Warn of AI Debt Risk as Anthropic Deal Total Hits $90 Billion, Surpassing SpaceX - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHNLMlN5TVRqaHR0X29ZMUZ6WFA5ZWpjdmItUjBXTC14UHV5RkNaUVVKeDBwNXEwcHJOX2E5UzJnZzVMS016N1JGQWpUM2lDbV81czVndHVmeUZObnRjcjFXNlBHc2pCa0ZyMHd1OFFZT0xMWmZwV3RBRGlNOUNXOVFsR3E1emhOa1dtUUNqMkdqbmVvSm9EdXM4NldnUU81dmVnUFRaMDFtZE1vYzNrQktyWjFOXzhtYXA2OWdKZjNCOTdsdHR1U1NLYWdCUEE2UVcyWWZoaXEyNG1xRk5iYmlCbw?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-19 01:29 UTC"
+      "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-19 21:18 UTC"
     },
     {
       "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
       "source": "BBC",
-      "published": "2026-11-19 10:48 UTC"
+      "published": "2026-11-19 15:58 UTC"
     },
     {
-      "title": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2JySDhOZnRaczVybVhLdzJrLTlGZEhrMU9KYXVrNmRTWWNpdGxIWnlZTk0wcHg4Z1BFc2xXVmFMRFNaWnhCSmQ2aEQ4X1Bwc0tabmVGaDF4al9oZDB1SVJva1ZuT3Z6RlNEbWNRbUtneHZhem81bXNQOXprbUpldzRvM0VQRy1PdG5USFNrdnNFQkFxcGpqZzYxNkx1WUNDLWFjV0I4bUNwTGxDcE1WbjZ2Mk5xZ3laLXVCRGxUZUdWc2dBaFpqT2x2dHJTQWlSN2MyS0xlTGlHcmttN3lFTGNTOU5PQ2lxVWtfSDRzMnV6bEVtam41NklsQzJHd3UzTWNQR3d4dDd3UQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-19 16:00 UTC"
+      "title": "AI Stocks Hit Capitulation-Level Selling, Tech Valuations Sink to Multi-Year Lows as Wall Street Hunts for a Rebound Window - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxQzR3ZUhMdG92alZ2Njh3WjdHamlMd04zaGpXcGJHcDU3b2d5bnhJMGZHenZZTWVoYlFJcXlBcUJpakQ0c19TMWJ5RVJaTU9NbktKSHIzU0dOTlBNbVE3VFZ0MWNpMEZBcGFsWjJUbWg2dmp5blE?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-20 09:25 UTC"
     },
     {
-      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-18 10:28 UTC"
+      "title": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies - Financial News London",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVAyUEdYLVlkbk5Gd1MwWHJyLTNaNThyM2c5OFZGZEJJMEllUHN0RF9BUEs4UU1YVkxxNGlOUmRnWmM2Zk5iZ1AzNGs0b1E1TlJXZFJEd3VJZ1FTbzVuV0VHU2s4Ni1rSjNSNFdGaGhYd1pzZlpmeVFvSjZ0emw1RjNxd3k1NnZHSFBSTzRoNzQzQ0JGZExmbmZNLWNXUQ?oc=5",
+      "source": "Financial News London",
+      "published": "2026-11-20 09:41 UTC"
     },
     {
-      "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-11-18 18:16 UTC"
+      "title": "Nvidia and Other Chip Stocks Keep Falling After the US Market Opens - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1pkSDgwTy1oYTVWcjc4MWozdkxFQURSWkI5aDd4ZFpxVlRHazA5aG9wVkMxdjVWaEV1YnJKbWZ2Y05iRVc1aklpZ0xvRTRDZzNYQnowVnJsUGdBZHhlU3VkNVY5djdrdFNmbWZyNXJqenQ0ZjN0a3AzTG51R2hvd1VB?oc=5",
+      "source": "Stock Titan",
+      "published": "2026-11-20 12:13 UTC"
+    },
+    {
+      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-18 23:00 UTC"
+    },
+    {
+      "title": "European stocks close about 1% lower as SAP and drugmakers fall on Anthropic debut day, while ASML gains - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3ZBakNvUkFLQ1BBaDNPSmd3S3JLSVJHRDViOTBudGp4UmJLN29ubkhfMWtGeEp2bl9hejFJclo4N1VIRUdGeFBjbl9XcnlXaTVYWHVsXzgxTVpKNFpvTll3bThBN3RweE5zd05fcFd1TnlDLTFVb3N5MmJZWFZmSjlPOUdUOFZhMTI5dzdLTWw1UlJqZVR6bV9oenZjMGlfcTFiU1IwX3V5eVEwbXFNa0p3?oc=5",
+      "source": "MLQ.ai",
+      "published": "2026-11-19 18:47 UTC"
+    },
+    {
+      "title": "US Stocks: Anthropic IPO and Rate-Hike Jitters Collide; Walmart Earnings Also in Focus - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTndVRzEzVkRHcmplOFB0RkRzMWVDbTViU0FDVnlkQ1owNFBWU3VLWXl3OTdiM1YtcmhSU1AxQ2VLa3g4OVJmQ242ZTZLT2h4YVIxTEVXbklaY2RSbzR3bkhpY1RYa3Y2bjRQVGF1YnNnUktHV2c?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-19 10:35 UTC"
     },
     {
       "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
@@ -3046,46 +3064,28 @@
       "published": "2026-11-19 10:51 UTC"
     },
     {
-      "title": "The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQN0Fmak9WQmVaR1o0SFBXUkNQV0U1SFk1bXF3aV9GR0ROS2ZBUnRUV2VqbElIMzBOeUI3QkJ6NVhNM3JBYWo2VWFHY3RjWVlwQllNNHR5blpOb0NKZ1ZZVmhIeVUwRWRMU1ZsNWdKM08wRTdVOExRSF94bHhmc1RJTzNnRWtkYk0xY0pUdVg2MFBPRVh3MTJXMXo1enZFT2FCUjZqRzQxRWF1LVdqdEIySEluWUtlXy1NNWxidVRCVlpPLU1QbHdLTzJhXzYwWV9VVVlua283eng4U1F1THZMdG5PVTZ4RnB4TFpVeVRKNWJyZWRSNmdRXzAtbnZKcTNVVy0tM2JrMmozSHVNeEkxcDQ4VUtXeTFHYnhFOWw0SDFXSi0x?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-18 17:31 UTC"
+      "title": "Stock Market Today: Nasdaq, S&P 500 Futures Slide on AI Fears - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGhZNVduQnJ0ck9Id2pjS2xJMFBkNUttamhEcXo3SjNaTkRzTTZQT19MV0JqLXROZWxzZ2pQQXpwb3plSWpjOWJ0NGRvRGJ1THQwYWdSME56RTgtVEJ4UHpCX2Q0WTk3OEE4dnc1UEJiV0J4R0EyMFNzNHdSWktqcWEwNW5sa1l3OWwwNTZnNlpzcFg1Y2E5VWd6X3NfVU1GQ0xJM3VsTWJqV0k?oc=5",
+      "source": "JournalArta",
+      "published": "2026-11-20 11:48 UTC"
     },
     {
-      "title": "U.S. Stock Market Diverges as Capital Continues to Flow Out of Crypto Market - NAI500",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUpNTlBKTmdRWkhpWXN6NWU5dUYxaXBrZHc1WGlqeEc0N0tDWGZvRnJnOVh2cmZYaERBeEZEbkxBNXVfQjhTMVlqYTRWOTgxb21NWEFXWkFwYmVxOTQzdHRPQUtMdEJDaWdJWXhoM182bmNaWFpLMHljRVhidDExNkZ3VUkwamV2Q0FDTjk1Z0hFY2xQZGNSTHl0MzZUb0xSN3RfUzBwckJyWmZh?oc=5",
-      "source": "NAI500",
-      "published": "2026-11-19 05:05 UTC"
-    },
-    {
-      "title": "US stock futures rise on Thursday; focus on analyst’s worst-case valuation of Oracle - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdk1rU29hYTN3TDRXTWNXTE9UTzhzaUNPOHRCT2lVLWtjaUFMdEZQWFJvTDZLbVV4SzZhYi1LdUxuWU40a2d4NUJfb21TcHZhWW1fb3ZSWVprWkR1dmJzcVE0ZGtjdVRTdWFIMGF2VzA3ZDJLN1FNVFJvOGkzVTRCR3Q0dzhfak4tZWVKeGM0NHdpaVNQNl9za2ljU2U0YjNqOE9Ba2pyYnlLcm5NTFpUMlBsdlNZX1dqWFZhQS15RjAxNlpIdFVfcDZ4dzIyTTRwVkxEb3g2YUNLd3UzU25CRHNR?oc=5",
-      "source": "联合早报",
-      "published": "2026-11-19 12:42 UTC"
-    },
-    {
-      "title": "9am Markets Update - RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zaklLbmI2OC1vTWl0OFlaZkdjWGdLbm1kNjJIYWVrWDJ1SGJ4ZUMzV2NSYnUzaDBGZDVaemhaU0tsTGhNTi02VDQxVlZUcldV?oc=5",
-      "source": "RTE.ie",
-      "published": "2026-11-19 13:02 UTC"
-    },
-    {
-      "title": "Nasdaq futures rise as Anthropic IPO filing renews interest in AI shar… - Rich Picks Daily",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdndUZHh2NGlIYmo3SzYyemhlWHBfaWRQNEtoX3dUeXo2djN5MElSWlNWRGJNVUk5VWg4LXZuNzdmdktua0QxbUVqXzZ0cHB3SGZ0cFhOUnNoTGlXMmh6dEFrSjBxVzZUSHFvc3JfLTJyM1Nrb2tkS1VoZWZYTkkyS1RkYVYxOUNicmNsWXRhbVNoTFZyOEEwSkZrRQ?oc=5",
+      "title": "Nasdaq Composite lost 0.6% as AI-sector unease persisted despite Anthr… - Rich Picks Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2J1QWN1aUMzTHBjRjVmb3dObEhQUXZiRnZiWFNRTjhKekhJcG1UTEhpQ1V3VExwa1dTaGJDbkE5TldkckEwejFkUDNSTnhpaFRKbDNZNTVJQThsOVlnY3YyNFJOZzFRNFl5SlBrSUFraHBvQW1EcFRCZk9fTG1UUHNaZ1VhUFNsMUt3Q1RQYzdiejJ0VmRYcGdZSl9jWTR2Q0E?oc=5",
       "source": "Rich Picks Daily",
-      "published": "2026-11-19 13:00 UTC"
+      "published": "2026-11-20 12:00 UTC"
     },
     {
-      "title": "Tech and AI Stocks Rise on Anthropic’s Nasdaq Debut - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1dQNzNwTDEwWTAwMzBYYS14N0lQNmZMaXVzRlhfSEVMSExtTGVtY01aNWVSakxvelVxcDY1VUJwdGVDNGtGU0FISHM1bkFHVHc4VG4xTEJlQWNfUXhQcEpteXJrSE9JSHctTV83ZF9MVmJoSEdsSFJEbm5xMVkzN0swb09WNms?oc=5",
-      "source": "TipRanks",
-      "published": "2026-11-19 14:55 UTC"
+      "title": "Wall Street Rally Fails as AI Stocks Extend Losses - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0tqYVZmMHp0a25QVzdoLXNvdXd5S3UtN3R3dHN4aEJORW5ER3hab0YzVDhCTzMzLVlmbk1IQlYya0xaZ3laUFZBNjIwampWd3hhRUxTOFV2eWlNRGQ2bDYwQjhFbkEyOU1Ldkt5RjJQQWo1S3hUM2FhdEJKVHNNNlYzbVo4dmNnTFE?oc=5",
+      "source": "JournalArta",
+      "published": "2026-11-20 10:40 UTC"
     },
     {
-      "title": "Nasdaq Composite gains 0.42% ahead of Anthropic debut - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOFRVY3dDTnRVM0NON0NsTmFIRjN4SERZR1JJUkhNQnN5d0J3MTNHbGtfdnhTWmFkNEdlNUl4dllzdFpLTlBZNzZMeGg5YUJINHVOSXNOMmtQZmJkdktzTWlvanQwMHl5TWF6QVZqOXlhdGg5UTJNVmtYZk9VelNNUmFYS1BKYTBXYUl0RUo1akZkTzVkYVVnSzMyeHlaZUNnVGNtSE53eXRYaVR0NTJuYU5aTDg?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-19 12:08 UTC"
+      "title": "Dow Jones Futures Fall After 1,000-Point Stock Market Drop - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3VhR3gyaE81RnJ6SGlfdkRNVTNPRHNDYi1weWtmeUZrdWx4S21ETHktTXAzTUdZbG5UMEJfT0xpWVFrOHZWUGtWdjBhb2VUQUFrek9YSXhqb2lla1hRbTN0RnFwZGhfNHoyUVJFUEhvZlJwM2x6M25FTEUxdFJKbHVZLXU5RmdsRHZ1TFkxLVVuUURi?oc=5",
+      "source": "JournalArta",
+      "published": "2026-11-20 12:10 UTC"
     }
   ],
   "errors": []
