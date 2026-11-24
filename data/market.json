@@ -1,15 +1,11 @@
 {
-  "updated": "2026-11-23T19:04:08.114682+00:00",
+  "updated": "2026-11-24T18:43:39.923663+00:00",
   "prices": {
     "QQQ": {
-      "close": 651.81,
-      "date": "2026-11-23",
-      "change_pct": 7.13,
+      "close": 638.8516,
+      "date": "2026-11-24",
+      "change_pct": -1.87,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 716.76
-        },
         {
           "date": "2026-09-01",
           "close": 707.64
@@ -244,19 +240,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 651.81
+          "close": 651.03
+        },
+        {
+          "date": "2026-11-24",
+          "close": 638.8516
         }
       ]
     },
     "AAPL": {
-      "close": 349.51,
-      "date": "2026-11-23",
-      "change_pct": 2.03,
+      "close": 352.895,
+      "date": "2026-11-24",
+      "change_pct": 1.09,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 316.85
-        },
         {
           "date": "2026-09-01",
           "close": 325.13
@@ -491,19 +487,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 349.51
+          "close": 349.08
+        },
+        {
+          "date": "2026-11-24",
+          "close": 352.895
         }
       ]
     },
     "MSFT": {
-      "close": 497.03,
-      "date": "2026-11-23",
-      "change_pct": 2.58,
+      "close": 496.27,
+      "date": "2026-11-24",
+      "change_pct": 0.77,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 507.29
-        },
         {
           "date": "2026-09-01",
           "close": 501.02
@@ -738,19 +734,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 497.03
+          "close": 492.5
+        },
+        {
+          "date": "2026-11-24",
+          "close": 496.27
         }
       ]
     },
     "NVDA": {
-      "close": 165.02,
-      "date": "2026-11-23",
-      "change_pct": 31.46,
+      "close": 154.03,
+      "date": "2026-11-24",
+      "change_pct": -6.68,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 220.78
-        },
         {
           "date": "2026-09-01",
           "close": 217.44
@@ -985,19 +981,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 165.02
+          "close": 165.05
+        },
+        {
+          "date": "2026-11-24",
+          "close": 154.03
         }
       ]
     },
     "AMZN": {
-      "close": 258.24,
-      "date": "2026-11-23",
-      "change_pct": 4.63,
+      "close": 252.225,
+      "date": "2026-11-24",
+      "change_pct": -1.24,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 259.77
-        },
         {
           "date": "2026-09-01",
           "close": 254.92
@@ -1232,19 +1228,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 258.24
+          "close": 255.39
+        },
+        {
+          "date": "2026-11-24",
+          "close": 252.225
         }
       ]
     },
     "GOOGL": {
-      "close": 283.73,
-      "date": "2026-11-23",
-      "change_pct": 6.95,
+      "close": 278.87,
+      "date": "2026-11-24",
+      "change_pct": -1.14,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 339.35
-        },
         {
           "date": "2026-09-01",
           "close": 335.02
@@ -1479,19 +1475,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 283.73
+          "close": 282.1
+        },
+        {
+          "date": "2026-11-24",
+          "close": 278.87
         }
       ]
     },
     "META": {
-      "close": 599.65,
-      "date": "2026-11-23",
-      "change_pct": 6.92,
+      "close": 591.89,
+      "date": "2026-11-24",
+      "change_pct": -0.96,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 572.34
-        },
         {
           "date": "2026-09-01",
           "close": 578.54
@@ -1726,19 +1722,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 599.65
+          "close": 597.6
+        },
+        {
+          "date": "2026-11-24",
+          "close": 591.89
         }
       ]
     },
     "TSLA": {
-      "close": 387.79,
-      "date": "2026-11-23",
-      "change_pct": 12.14,
+      "close": 382.8806,
+      "date": "2026-11-24",
+      "change_pct": -0.67,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 367.95
-        },
         {
           "date": "2026-09-01",
           "close": 356.09
@@ -1973,19 +1969,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 387.79
+          "close": 385.46
+        },
+        {
+          "date": "2026-11-24",
+          "close": 382.8806
         }
       ]
     },
     "AVGO": {
-      "close": 312.0098,
-      "date": "2026-11-23",
-      "change_pct": 2.5,
+      "close": 304.27,
+      "date": "2026-11-24",
+      "change_pct": -2.96,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 370.34
-        },
         {
           "date": "2026-09-01",
           "close": 369.68
@@ -2220,19 +2216,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 312.0098
+          "close": 313.55
+        },
+        {
+          "date": "2026-11-24",
+          "close": 304.27
         }
       ]
     },
     "AMD": {
-      "close": 454.41,
-      "date": "2026-11-23",
-      "change_pct": 7.07,
+      "close": 413.53,
+      "date": "2026-11-24",
+      "change_pct": -8.81,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 470.72
-        },
         {
           "date": "2026-09-01",
           "close": 459.61
@@ -2467,19 +2463,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 454.41
+          "close": 453.46
+        },
+        {
+          "date": "2026-11-24",
+          "close": 413.53
         }
       ]
     },
     "NFLX": {
-      "close": 58.105,
-      "date": "2026-11-23",
-      "change_pct": 2.42,
+      "close": 59.055,
+      "date": "2026-11-24",
+      "change_pct": 1.64,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 81.05
-        },
         {
           "date": "2026-09-01",
           "close": 80.81
@@ -2714,19 +2710,19 @@
         },
         {
           "date": "2026-11-23",
-          "close": 58.105
+          "close": 58.1
+        },
+        {
+          "date": "2026-11-24",
+          "close": 59.055
         }
       ]
     },
     "COST": {
-      "close": 1098.915,
-      "date": "2026-11-23",
-      "change_pct": -0.29,
+      "close": 1088.22,
+      "date": "2026-11-24",
+      "change_pct": -0.88,
       "history": [
-        {
-          "date": "2026-08-31",
-          "close": 943.89
-        },
         {
           "date": "2026-09-01",
           "close": 939.96
@@ -2961,134 +2957,136 @@
         },
         {
           "date": "2026-11-23",
-          "close": 1098.915
+          "close": 1097.91
+        },
+        {
+          "date": "2026-11-24",
+          "close": 1088.22
         }
       ]
     }
   },
   "news": [
     {
-      "title": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOM2JySDhOZnRaczVybVhLdzJrLTlGZEhrMU9KYXVrNmRTWWNpdGxIWnlZTk0wcHg4Z1BFc2xXVmFMRFNaWnhCSmQ2aEQ4X1Bwc0tabmVGaDF4al9oZDB1SVJva1ZuT3Z6RlNEbWNRbUtneHZhem81bXNQOXprbUpldzRvM0VQRy1PdG5USFNrdnNFQkFxcGpqZzYxNkx1WUNDLWFjV0I4bUNwTGxDcE1WbjZ2Mk5xZ3laLXVCRGxUZUdWc2dBaFpqT2x2dHJTQWlSN2MyS0xlTGlHcmttN3lFTGNTOU5PQ2lxVWtfSDRzMnV6bEVtam41NklsQzJHd3UzTWNQR3d4dDd3UQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-19 16:00 UTC"
+      "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmR3S0E4eC04el94LUNRcGJxUXo3MGppQ2Jxa19oQVIxVl9XNDJULV9BQ1R3cmZPZ1ZyckJXNmR0b3pwbW5NV0pLR0IwMTRabVJxQjN5QWlNRzVoQzU2T0RUYjNHWnpfS2VYSzJYeDhYNFQ2dVFMY3BRZHdrcEhQWE4tbHlRbHFxdVhVamRSelJIWnhDbklpcHJzUUY1UXN1a2s5Z0luUEREN1JfNlV3bA?oc=5",
+      "source": "Kitco",
+      "published": "2026-11-24 13:15 UTC"
     },
     {
-      "title": "Why Is the US Stock Market Crashing Today? Dow Drops 1,000 Points Despite Anthropic IPO - Stocks Down Under",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQy1ONS05blpQMVlFOXg4VFdqQzVQbm1MNWgxUTM5WHpkWWlienZhUGRPLTJvRDFiWmQ2QmNHQ3lCVG1CYjNILXQ1V3BGbHNKTmNFaXcyVWN5c1o1cHBrNWF6YlJQSE9KT0FpU1F3NDVacnBMZ0pNQzkyYzM3QQ?oc=5",
-      "source": "Stocks Down Under",
-      "published": "2026-11-19 20:39 UTC"
+      "title": "S&P 500 & Nasdaq Live: US Stocks Drop After Monday’s 4.7% and 6.5% Rally - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUhFNFBLQlFEd3VlaVh2UTBBWFhyWEtxUkYwT0hPVkJoLVBiY0JmcURNblF2clVGZTFrLXBUT3pmM21tcWJLaVYxejctcHJxc0pDTG9kaGRrTGVid3A3bGtCUFF5ZzNtclhkcUZrbzhNVDNFb2dGeXRXUkIxR0tfeDhpN3RTWGZPTDY5MDhTZWU0SmxuWmdJWGFtaE03WXp6YmMwRndB?oc=5",
+      "source": "Coinpaper",
+      "published": "2026-11-24 13:44 UTC"
     },
     {
-      "title": "Nasdaq Drops 2.2%, Anthropic Slips to Close at $97 After Higher Open; Tech Stocks Slump as AMD Falls Over 7% - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWpHTTJjYWVnWG95WE92NkRpTjZRNUkyd0lCZjRIS3VnLVhNTUJMY1Z6Z3UwLXU2eUduaDM5WTJ2MkZHMDdkSWlVZUFVQ2JnNUdHdmh0THZJTFBENGxoRloySEh3YmcyMXFkYy0wLVNHWlhDMWpoWHdMSnJha0NkTEViMTVpYkkxX3JjWUE4dkktYkNrVnJsM3phTGJoRktROWMzX1JjNmdvSGhxNmtoWDhnekZsR0QwWGVOYVFKbFgtZ21pWE02MTlocjU?oc=5",
-      "source": "TradingKey",
-      "published": "2026-11-19 21:15 UTC"
-    },
-    {
-      "title": "Global Market Watch: Major 3 Indices Fall, VIX Surges Nearly 18% - SBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYT0h1cldnVHNxWmZPX1JYaGgxRUI4TmZIRXdvYV9Nc2R2TnkxN0xqN1lVNjJRWll3Y3BiRlNRQzdwNWdrRnJZeUhKVjFpM1FnZExmMjdBQjdMQi05SHlRUmt0aTJ0dVpMUUVrUUZn0gFmQVVfeXFMTmQyaHlxdTZKbnUtenZrX25QazZMaGo5SGdUQWlQSEhXeEdHNHpYT2RrR1J2WWJCYThneXprZnZia0tfdlM5cUd6S0puYnp4dk1nNzhGR0pud3ZIUW1FUmhaaXJwaTJ3?oc=5",
-      "source": "SBS 뉴스",
-      "published": "2026-11-19 23:23 UTC"
-    },
-    {
-      "title": "Dow Crashes 1,101 Points as Anthropic Debut Fails to Stop the AI Stock Sell-Off - Markets.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pRzBhc0NacFZndjZSRGk1QWF2Q2NJYTE5amhCZEtGbmliQ0c3MXNFQjZDVjdPSkFhYmd2OTNPN1h3d1ZLV29wdHZFakRqRVF3Ty1fZ2JVS253aUtVczc0UmhwRmtBQ3hWVFl6S2N1ZkgxMEhYamc?oc=5",
-      "source": "Markets.com",
-      "published": "2026-11-19 16:03 UTC"
-    },
-    {
-      "title": "US open: Stocks mixed as Anthropic makes Nasdaq debut - Sharecast.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEtRbS1lcE5mYXJqLVh1el84OE9wdkZwanNfeHQ5YVBaTU5YVmVzVVMzNmtrUTQwQjVZX0R3bFZYV2Y0MVU3U3MwVUw5d3RFdXpBdmlSaFNVREpPRXZwZEh1ZVpGcEl5NklEMmE0WFNKeXVRSGRYdVhkcmw4NkpabjgxY245akFERG9yR256cy1YQlJFVFpYc1p3VUt1OUUwX19EaHpvMlp5RkN6eGU1YmZBNFhjZEJWdjdheE5RRXUyM0lfT3JmUjlManN4V1k?oc=5",
-      "source": "Sharecast.com",
-      "published": "2026-11-19 15:46 UTC"
-    },
-    {
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-      "source": "Investing News Network",
-      "published": "2026-11-18 17:05 UTC"
-    },
-    {
-      "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-19 21:18 UTC"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
-      "source": "BBC",
-      "published": "2026-11-19 15:58 UTC"
-    },
-    {
-      "title": "AI Stocks Hit Capitulation-Level Selling, Tech Valuations Sink to Multi-Year Lows as Wall Street Hunts for a Rebound Window - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxQzR3ZUhMdG92alZ2Njh3WjdHamlMd04zaGpXcGJHcDU3b2d5bnhJMGZHenZZTWVoYlFJcXlBcUJpakQ0c19TMWJ5RVJaTU9NbktKSHIzU0dOTlBNbVE3VFZ0MWNpMEZBcGFsWjJUbWg2dmp5blE?oc=5",
+      "title": "Nvidia-Led Rally Fades as US Stocks Open Lower, Nasdaq Falls Over 1.4% - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUU0xTXBNUVJrZGo3bEZqOWJ4UjA5S0ZUV1B5WFVwdXJrQzlsVDQwaHV1TmlzZ2cwQnQ0bDJqektGWDhhQ1JWTEl0cXFFbE1zSEI5SmQ3U3FVNV9mTEhoZEJvYUZQR29fc0VnZmdkeE9pUTBEX0E?oc=5",
       "source": "BigGo Finance",
-      "published": "2026-11-20 09:25 UTC"
+      "published": "2026-11-24 15:35 UTC"
     },
     {
-      "title": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies - Financial News London",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVAyUEdYLVlkbk5Gd1MwWHJyLTNaNThyM2c5OFZGZEJJMEllUHN0RF9BUEs4UU1YVkxxNGlOUmRnWmM2Zk5iZ1AzNGs0b1E1TlJXZFJEd3VJZ1FTbzVuV0VHU2s4Ni1rSjNSNFdGaGhYd1pzZlpmeVFvSjZ0emw1RjNxd3k1NnZHSFBSTzRoNzQzQ0JGZExmbmZNLWNXUQ?oc=5",
-      "source": "Financial News London",
-      "published": "2026-11-20 09:41 UTC"
+      "title": "Nasdaq, S&P 500 ease as Nvidia-driven AI rally fizzles - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEtTWEMtUmE4T1pRd1JaSkI5cDNoTHhyR0s2OWxLNVR6UWtCb3Badzk5YUpCaFE3OTlNcE5SeGlnTERyZ3NVZ0xrdl9yYmdoVEhualBpT0Z1a251aEd6UE1kLVNPRlVIRG9HanNZQUVMdUJwLUxQdmxSdnNtRE5ZdFI4cDJ6MWFxd2ttZGxOZnhCSEhEWGJWeEJR?oc=5",
+      "source": "KELO-AM",
+      "published": "2026-11-24 13:05 UTC"
     },
     {
-      "title": "Nvidia and Other Chip Stocks Keep Falling After the US Market Opens - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1pkSDgwTy1oYTVWcjc4MWozdkxFQURSWkI5aDd4ZFpxVlRHazA5aG9wVkMxdjVWaEV1YnJKbWZ2Y05iRVc1aklpZ0xvRTRDZzNYQnowVnJsUGdBZHhlU3VkNVY5djdrdFNmbWZyNXJqenQ0ZjN0a3AzTG51R2hvd1VB?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-11-20 12:13 UTC"
+      "title": "US STOCKS-Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3JxT0VMbVo1ZEhkSHFsUDJYTi1yOVVZV0ZVM0N1N0hVNFhsLWRMcEdxYkh2b3ptaS1iQ181MDFiWE5nQTJLTnU3OHpZZ21DTzlvZm9Gd2ZidXFKdGVTT04tVWZFbHZjQUh6WTNPQ3l1eDY4NHZBdG1LSXN3RFpFU0Z3M2Vod2tKby1ZdHRRQ1hnaGEtTG1rN2tJUXpSX0puLVFQaWpPNjA4RnU1LWU0Nmc4RFpqY1VLZlVmeWl30gHDAUFVX3lxTE81OWlaeEFzZWtjY0lDamh2Z2gxNmRabkpSRVd2Y0JkYkZjbGxaZnNNcnV6cmdldGlXMjk5VDhiOUdrOVcyVGVEY1hFYVEwRVJCNmdGblBISE5vejNIb3daQ1M4N3ZCbmtSdHdOSjdxY0lfUm05a29FSGEzU2JtR1BUN3pXLVRFUklsRVNiazRCYmFSUG5PQUFZWVc5MVc3UkN5c3V5NUF3eDc2eDhYWTVaUFZvX25jS2c4b1dNRFl3dWhoTQ?oc=5",
+      "source": "Devdiscourse",
+      "published": "2026-11-24 17:14 UTC"
     },
     {
-      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
+      "title": "These 6 Nasdaq-100 Stocks Missed Out On Monday's Rally - Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWF2dGt1VzhvTzhheDdZdUZVNkJhb2pRamRMX09CNXlQSTMzczJjb0VSNnNfYXlFT1NabHpkNXNqN3V5a19wSE1BSjRRcUs3UWpqRzA1WkRKLU1fRVhTZjhaZUtEZ0ptLUh1RGVaNjRyT1AwekZHZjkzRlBGSkhvbTlFMFRzaldzenFGSUxvaWVEZWk1d2JBYk9BeVJSLXRCRXFtS2xTSEFZQWdLNjdDSEE5eWNwdzdaVXJN?oc=5",
+      "source": "Forbes Middle East",
+      "published": "2026-11-24 07:30 UTC"
+    },
+    {
+      "title": "Nasdaq, S&P 500 ease as Nvidia-driven AI rally fizzles - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa25fMFQ3ZGtoem9qa2tTeDEybjdlWUZqV2lrRkwzNkdVOU54Ql91U3EtNlVmYkhmcVFScUhPZk1GYWI2MDBsMDZPYjFxZ3RoZTNSNlFJZWVucE04Vklqc2gxWXU1VkdXYnRNdlNFeFNuWEtjc0NKVlBFRkltVWNWMkdaVWZDbGpPUHVpb2hETnZwNTE1SXpSNlRMSVppTFhyWDdNV2haQU02VUlCa2hJS1l6blNoTi1PN2kteXJrQ0V3NW5uOTluWjdBVGFqZ1paTVhGM2Y0TlRMeWtCRDdUcQ?oc=5",
+      "source": "The Globe and Mail",
+      "published": "2026-11-24 10:25 UTC"
+    },
+    {
+      "title": "U.S. stocks see best day since April 2025; Nasdaq ends +6.5% - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWZYQ2dIYUJxUWlyV21qaXFiUGpzT3Qwa0g1Mm9tLW1yVEhFcDBleU9DMm5BV20tR0lhVXIyWG5pRUhGdlhPUXFEU2xKcFlIY3F4X2VqT3NjblJMWTdOVzY1THlfVlpvYmdOVDVvUFFCSGtVZUx1NVh6NzZ6TjlYVDJuVzlSUE1rRmZDZ1hTeUQ1WlJrUTdhZXVVSnV1bDFoUlA0VE1qYmJZbnhPWUdTb0s0YklJVXVjUnNj?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-23 21:06 UTC"
+    },
+    {
+      "title": "US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmxsdEozZENOM2hTX3RTckJROVlKS29VYXBxXy1FUVdOSWMybklvLWxuMWhBa2pHWHVnVk1KdXd1N2VLQWpJLXRGTzJzZGlSTFZhbFA4cmtxM3A5NmdtR2FQQ3hDQ1NDXy1IWXdBbzdrTXktdEVGQjVvV1hRM09NX3I4MTlYRTZTMi1OT1k5Nll6RlFjN2ZPWWhR?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-11-18 23:00 UTC"
+      "published": "2026-11-24 10:14 UTC"
     },
     {
-      "title": "European stocks close about 1% lower as SAP and drugmakers fall on Anthropic debut day, while ASML gains - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3ZBakNvUkFLQ1BBaDNPSmd3S3JLSVJHRDViOTBudGp4UmJLN29ubkhfMWtGeEp2bl9hejFJclo4N1VIRUdGeFBjbl9XcnlXaTVYWHVsXzgxTVpKNFpvTll3bThBN3RweE5zd05fcFd1TnlDLTFVb3N5MmJZWFZmSjlPOUdUOFZhMTI5dzdLTWw1UlJqZVR6bV9oenZjMGlfcTFiU1IwX3V5eVEwbXFNa0p3?oc=5",
-      "source": "MLQ.ai",
-      "published": "2026-11-19 18:47 UTC"
+      "title": "US stocks rebound as Jensen Huang returns as Nvidia CEO - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRE5xUGZBWGZLakN1elhZS0JTdXd6UTk4UU15NjdNR3lkOEdtMHkzNm1yeG00cXdDYmNkV3d2QmNaQ0FDY0xrSElkSzhvN2s3MHBNcW14ZmtXQ1FTZE9TX1AwdDZOV1ZBeS1LT0VEdFJzYUY1VHNTakw0M3ZacTVKcUtVS2JMRlk3VF9POE55bGMza3VxemljRmZ2YnpfeWRvVVl6TlZyX3BuSW9sREE?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-11-23 21:52 UTC"
     },
     {
-      "title": "US Stocks: Anthropic IPO and Rate-Hike Jitters Collide; Walmart Earnings Also in Focus - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTndVRzEzVkRHcmplOFB0RkRzMWVDbTViU0FDVnlkQ1owNFBWU3VLWXl3OTdiM1YtcmhSU1AxQ2VLa3g4OVJmQ242ZTZLT2h4YVIxTEVXbklaY2RSbzR3bkhpY1RYa3Y2bjRQVGF1YnNnUktHV2c?oc=5",
+      "title": "Nasdaq 100 Tests Long Term Support as Tech Stocks Face Pressure - cwibc.co.id",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yVDB0WVMwcl9CcFg0cDFhYkJOWmRZU01zd195Vk9IYXlMdWJKWF8tSkRrVklDdWFKNWc5MDJKZzlSZnFScTY4eS1JR1ZOTGxnWWhmZEdPN0tqay1aSER1ZW1ERQ?oc=5",
+      "source": "cwibc.co.id",
+      "published": "2026-11-23 14:56 UTC"
+    },
+    {
+      "title": "US stock futures rebound as tech stocks recover from AI sell-off; Nasdaq 100 jumps 3.5%, S&P 500 climbs 2.8% - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbHdPbEw0NnIwWVpQdFViWjZIUVV0ajRYYVVqbENERE93UlpiN3RuQUVFazQwLXllYUMzNGZoTWpCVnYyZFh2Z2xxTGdOTTlPaFZCc0ZxS3pxZm5xMThRSE9pNGZORkI3ZEpEVUtraVJOY1pxOUwyaGhEanlWd3VueEF0UmRWdnNpamVtNGNhNlRNbDZHbVlUNEhvWDloeVEzM1JNYnVKRWlWblJEZDhBZWNIcndtWkdSQjJDWHBkczd2anpId3p5TDJfcmxqeHlndkxSejZiMXpYMHVkWl9jbVBZZEVmdERlU2ljZTA4YUZoQ1ZfZjBtTXhfMA?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-23 11:28 UTC"
+    },
+    {
+      "title": "US stocks surge, cheering return of Nvidia CEO and shrugging off scandal - KLSE Screener",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjU0bi0yaXBqT0sxM1FkY3F6MW5LQ3FrLTZ6M203NVhKTk1JSFVpUVNxdkVra0FsZWlxcjM2cWZ3QV9taWp0aFJYdUN5c1laVmJjUHZwT190eVpybXF1ZGwzdXp1cWowVGJydE9mNE5GZ2pyOXJsMVVwNVVTb1hiOVlPQl9xRjg5U2dNdkFuaUo5WlpmWjVYYkQxV2h2LXoyNHo2eDNzNmtla0labjMxMXJVTE1Lem5VVkFNQzZB?oc=5",
+      "source": "KLSE Screener",
+      "published": "2026-11-23 23:58 UTC"
+    },
+    {
+      "title": "AI Sell-Off Pushes Nasdaq Into Correction as Stocks Retreat - cwibc.co.id",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNzUxX3pnalFaM0owUVJiaTJNNEZTNG94NlVuTFUyZVVNQmZVWm13c2hHYnYxQnRLcGF6a2hNU0FPNjZDMzUwbXZyRFVTbDZIWXV1U3hFYW40amlfUzctSWpoNW9MRWxPRVE?oc=5",
+      "source": "cwibc.co.id",
+      "published": "2026-11-22 23:26 UTC"
+    },
+    {
+      "title": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-24 17:14 UTC"
+    },
+    {
+      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-23 07:55 UTC"
+    },
+    {
+      "title": "Stock Market Today: S&P 500 and Nasdaq Fall as Nvidia Drops 5.5% - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczRlU2MySEY5bkZvWG4xTDJBVXpsQnlhcGZ1MTZvTWZRV3dtNWM3X0dhYzN4ZGk0a2lVMzJZbk5GMk1DUzdnaG1xVmJ4TWl2RklOYklWZE5Uc01NakdkczNRam9sVVFYcVh5aU8xTWlOUm1sVVFyLTFuX01MLXVmZGtWcmd3bGxfaGlaU1IzN1VWdFphaEJoNmt3?oc=5",
+      "source": "Coinpaper",
+      "published": "2026-11-24 15:04 UTC"
+    },
+    {
+      "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHZubEhRQlFlOHctVERKbjNHYUJoS2ZpQk9FOEhoX1JMY2Z4LW1maVJ4OVBPRzJ1R213dW9nd0l6NmpxWXhxbDJfRHNXOVZwdHVtUk1YYjFDM2FDRUhQUElKaE5GeHlWUlBkV0RvNXhHLVloem9EUmZwdlZfeVZtN2VuQkptcGdHclBZQkhlV0tEbkxOODVqY1R4dm91azczNXBEMmpxUXNsY2J6UEVxRUpNYWUxZw?oc=5",
+      "source": "Bloomberg",
+      "published": "2026-11-22 20:31 UTC"
+    },
+    {
+      "title": "US Stock Market Crashed 13 Times This Century: What Does the Pattern Show? - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MYnRHSVdlRXcxZno4elFHV21vbEFHd0xBSzZ3YkpOY0pCdmIzVENYYmN4MXdocVVVNWRIbm14bTJfUlhJYkZBdm5PRU9wcWRrNlR0R2RMbDV3c3hoN0hTdXh4bHg0bVAtLUE?oc=5",
+      "source": "BeInCrypto",
+      "published": "2026-11-24 12:28 UTC"
+    },
+    {
+      "title": "Trump Says $6 Trillion Stock Market Wipeout Is \"100% the Democrats' Fault\"; Bessent Points to a Mix of Factors - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZWxrQ0VZS2pSNVlta3MzTGNTS3ZnckFudjBGSlNTb012aWNzVnBrZ2tpcWJXN0wtbzQ3cGh3UDBWeFM3bkhOc2luVWlmMXlmeUFVZGk0LTR0eWVwWjFoc292Zk4xNTNsZmd3RFJrVzhhd0F4Ymc?oc=5",
       "source": "BigGo Finance",
-      "published": "2026-11-19 10:35 UTC"
-    },
-    {
-      "title": "US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-19 10:51 UTC"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P 500 Futures Slide on AI Fears - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGhZNVduQnJ0ck9Id2pjS2xJMFBkNUttamhEcXo3SjNaTkRzTTZQT19MV0JqLXROZWxzZ2pQQXpwb3plSWpjOWJ0NGRvRGJ1THQwYWdSME56RTgtVEJ4UHpCX2Q0WTk3OEE4dnc1UEJiV0J4R0EyMFNzNHdSWktqcWEwNW5sa1l3OWwwNTZnNlpzcFg1Y2E5VWd6X3NfVU1GQ0xJM3VsTWJqV0k?oc=5",
-      "source": "JournalArta",
-      "published": "2026-11-20 11:48 UTC"
-    },
-    {
-      "title": "Nasdaq Composite lost 0.6% as AI-sector unease persisted despite Anthr… - Rich Picks Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2J1QWN1aUMzTHBjRjVmb3dObEhQUXZiRnZiWFNRTjhKekhJcG1UTEhpQ1V3VExwa1dTaGJDbkE5TldkckEwejFkUDNSTnhpaFRKbDNZNTVJQThsOVlnY3YyNFJOZzFRNFl5SlBrSUFraHBvQW1EcFRCZk9fTG1UUHNaZ1VhUFNsMUt3Q1RQYzdiejJ0VmRYcGdZSl9jWTR2Q0E?oc=5",
-      "source": "Rich Picks Daily",
-      "published": "2026-11-20 12:00 UTC"
-    },
-    {
-      "title": "Wall Street Rally Fails as AI Stocks Extend Losses - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0tqYVZmMHp0a25QVzdoLXNvdXd5S3UtN3R3dHN4aEJORW5ER3hab0YzVDhCTzMzLVlmbk1IQlYya0xaZ3laUFZBNjIwampWd3hhRUxTOFV2eWlNRGQ2bDYwQjhFbkEyOU1Ldkt5RjJQQWo1S3hUM2FhdEJKVHNNNlYzbVo4dmNnTFE?oc=5",
-      "source": "JournalArta",
-      "published": "2026-11-20 10:40 UTC"
-    },
-    {
-      "title": "Dow Jones Futures Fall After 1,000-Point Stock Market Drop - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3VhR3gyaE81RnJ6SGlfdkRNVTNPRHNDYi1weWtmeUZrdWx4S21ETHktTXAzTUdZbG5UMEJfT0xpWVFrOHZWUGtWdjBhb2VUQUFrek9YSXhqb2lla1hRbTN0RnFwZGhfNHoyUVJFUEhvZlJwM2x6M25FTEUxdFJKbHVZLXU5RmdsRHZ1TFkxLVVuUURi?oc=5",
-      "source": "JournalArta",
-      "published": "2026-11-20 12:10 UTC"
+      "published": "2026-11-23 00:25 UTC"
     }
   ],
-  "errors": [
-    "news: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
